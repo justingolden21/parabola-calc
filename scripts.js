@@ -1,4 +1,5 @@
 $( ()=> {
+	$('#calc').click(calc);
 	$('input').change(calc);
 	$('input').val(0);
 	$('#x1').select();
