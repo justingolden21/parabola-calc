@@ -1,0 +1,7 @@
+@TODO: error check / validate inputs
+round output values, add css, add calc btn, display parabola
+display math for calculation
+inputs to enter an x and get y on the parabola below
+url params / link to inputs and parabola
+update readme
+logo
